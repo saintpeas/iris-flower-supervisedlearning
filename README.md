@@ -100,17 +100,17 @@ Typical accuracy scores (may vary with random state):
 ```
 iris-classification/
 │
-├── src/                         # Source code
-│   └── iris_classification.py   # Main script
+├── src/ # Source code
+│ └── iris_classification.py # Main script
 │
-├── README.md                    # Project documentation
+├── README.md # Project documentation
 │
-└── outputs/                     # Generated visualizations
-    ├── iris_pairplot.png
-    ├── correlation_heatmap.png
-    ├── feature_boxplots.png
-    ├── confusion_matrix.png
-    └── model_comparison.png
+└── outputs/ # Generated visualizations
+├── iris_pairplot.png
+├── correlation_heatmap.png
+├── feature_boxplots.png
+├── confusion_matrix.png
+└── model_comparison.png
 ```
 
 ## 🔍 Key Findings
